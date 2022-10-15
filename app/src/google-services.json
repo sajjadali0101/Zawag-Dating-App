@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341207133380",
+    "firebase_url": "https://zawag-95018.firebaseio.com",
+    "project_id": "zawag-95018",
+    "storage_bucket": "zawag-95018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341207133380:android:75eb7d0a93e82f57966d91",
+        "android_client_info": {
+          "package_name": "zawag.site.zawag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341207133380-9ig8haqk4e8b2e5tlm1s0btgqsh9ptsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd0i14pH7d5-bPfYZgZh8NQ21_uOLabrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341207133380-9ig8haqk4e8b2e5tlm1s0btgqsh9ptsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

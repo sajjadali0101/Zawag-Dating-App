@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482611059963",
+    "firebase_url": "https://zawag-muslima.firebaseio.com",
+    "project_id": "zawag-muslima",
+    "storage_bucket": "zawag-muslima.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482611059963:android:24288864b5ad1d9f3ce45e",
+        "android_client_info": {
+          "package_name": "site.Zawag.Zawag.Muslima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482611059963-o50sklj3do9hhs1dq8ca24citnjrpiis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkKJtuBVLvJLGcZLNBJmrJPqKWauias0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482611059963-o50sklj3do9hhs1dq8ca24citnjrpiis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
